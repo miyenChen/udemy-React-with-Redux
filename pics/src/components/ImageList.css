@@ -1,0 +1,10 @@
+.image-list{
+columns: 5 200px;
+column-gap: 10px; 
+margin-top: 20px;
+}
+/* imagelist 引入 imageShow 時帶入 imageShow 中的 img tag*/
+img {
+    width: 100%;
+    margin-bottom:20px;
+}
